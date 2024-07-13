@@ -4,7 +4,7 @@ I created a unity game that allows users to enjoy a few moments as the First Ave
 
 I designed this game because I thought it would be a fun project and would give me practice customizing a program to meet certain standards.
 
-[Software Demo Video](https://youtu.be/PcUOSZ90QGI)
+[Software Demo Video](https://youtu.be/fQB5u9k-6kk)
 
 # Development Environment
 
@@ -15,13 +15,14 @@ C#
 # Useful Websites
 
 Tutorials
-
 - [Shooter](https://www.youtube.com/watch?v=vkKulG71Yzo)
 - [Beginner Tips](https://www.youtube.com/watch?v=XtQMytORBmM&t=1305s)
 - [Jump](https://www.youtube.com/watch?v=6xn0Sokihdc&t=384s)
-- [GitHub](https://github.com/CodingSpencer/cap-s_journey.git)
+
 
 # Future Work
+
+{Make a list of things that you need to fix, improve, and add in the future.}
 
 - More Features (Enemies, lives, and camera position)
 - More Simple Controls
